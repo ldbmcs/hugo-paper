@@ -1,1 +1,6 @@
 /* Place custom css here. */
+article pre {
+    padding: 1rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
