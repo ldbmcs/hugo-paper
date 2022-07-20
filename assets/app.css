@@ -65,7 +65,7 @@
   }
 
   article pre {
-    @apply !p-8 shadow-lg;
+    @apply shadow-lg;
   }
 
   article blockquote {
